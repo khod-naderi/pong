@@ -4,5 +4,5 @@
 
 # Game Pong by VB6
 <hr />
-<img src="./media/screen_record.mp4" /><br />
+<img src="./media/screen_record.gif" /><br />
 
